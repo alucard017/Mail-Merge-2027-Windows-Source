@@ -19,11 +19,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 COORDINATOR_DATA = {
-    "rahul": {"fullName": "Rahul Kumar", "phone": "+91-9876543210", "email": "2024pgcsca022@nitjsr.ac.in"},
-    "priya": {"fullName": "Priya Brahma", "phone": "+91-9876543211", "email": "2024pgcsca001@nitjsr.ac.in"},
-    "rohit": {"fullName": "Rohit Gangwar", "phone": "+91-9876543212", "email": "2024pgcsca019@nitjsr.ac.in"},
-    "siya": {"fullName": "Siya Agarwal", "phone": "+91-9876543213", "email": "2024pgcsca058@nitjsr.ac.in"},
-    "taher": {"fullName": "Taher Mallik", "phone": "+91-9876543214", "email": "2024pgcsca007@nitjsr.ac.in"}
+    "rahul": {"fullName": "Rahul Kumar", "phone": "+91-7993185567", "email": "2024pgcsca022@nitjsr.ac.in"},
+    "priya": {"fullName": "Priya Brahma", "phone": "+91-9678374608", "email": "2024pgcsca001@nitjsr.ac.in"},
+    "rohit": {"fullName": "Rohit Gangwar", "phone": "+91-8979304759", "email": "2024pgcsca019@nitjsr.ac.in"},
+    "siya": {"fullName": "Siya Agarwal", "phone": "+91-9310120759", "email": "2024pgcsca058@nitjsr.ac.in"},
+    "taher": {"fullName": "Taher Mallik", "phone": "+91-9152760580", "email": "2024pgcsca007@nitjsr.ac.in"}
 }
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.modify', 'https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/drive']
